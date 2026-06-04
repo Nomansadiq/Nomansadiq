@@ -26,8 +26,6 @@
 <br>
 
 <h2 align="center">🚀 About Me</h2>
-
-<br>
  
 <p align="center">
 I am a passionate web developer specializing in WordPress, Shopify, and e-commerce solutions. I excel in theme customization, store setup, and optimization, ensuring high-performance and user-friendly online stores. I love transforming designs into functional websites and continuously learn new technologies to stay ahead.
@@ -40,7 +38,6 @@ My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, R
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<br>
  
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nomansadiq&theme=tokyonight" />
@@ -58,8 +55,6 @@ My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, R
 
  
 <h2 align="center">🔥 Contribution Streak</h2>
-
-<br>
  
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Nomansadiq&theme=tokyonight&hide_border=true" />
@@ -68,8 +63,6 @@ My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, R
 <br>
  
 <h2 align="center">✍️ Random Dev Quote</h2>
-
-<br>
  
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -78,8 +71,6 @@ My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, R
 <br>
  
 <h2 align="center">🧠 Developer Mode</h2>
-
-<br>
  
 <div align="center">
 <!-- Developer Mode Image -->
