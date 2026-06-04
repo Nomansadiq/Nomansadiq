@@ -6,12 +6,13 @@
 <p>I create clean, responsive and user-friendly websites using HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React and modern web tools.</p>
 </div>
 
- 
-<div align="center">
-<br></br>
+<br>
+
 ## 🛠️ Languages & Tools
 
+<br>
  
+<div align="center">
 <a href="#" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="60" /></a>
 <a href="#" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="60" /></a>
 <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="60" /></a>
@@ -26,8 +27,12 @@
  
 </div>
 
+<br>
+<br>
 
 <h2 align="center">🚀 About Me</h2>
+
+<br>
  
 <p align="center">
 I am a passionate web developer specializing in WordPress, Shopify, and e-commerce solutions. I excel in theme customization, store setup, and optimization, ensuring high-performance and user-friendly online stores. I love transforming designs into functional websites and continuously learn new technologies to stay ahead.
@@ -36,7 +41,12 @@ I am a passionate web developer specializing in WordPress, Shopify, and e-commer
 My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React, and Node.js. I focus on delivering visually appealing, responsive, and scalable websites that meet client needs.
 </p>
 
+<br>
+<br>
+
 <h2 align="center">📊 GitHub Stats</h2>
+
+<br>
  
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nomansadiq&theme=tokyonight" />
@@ -49,20 +59,35 @@ My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, R
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nomansadiq&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nomansadiq&theme=tokyonight&utcOffset=5" />
 </div>
+
+<br>
+<br>
  
 <h2 align="center">🔥 Contribution Streak</h2>
+
+<br>
  
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Nomansadiq&theme=tokyonight&hide_border=true" />
 </div>
+
+<br>
+<br>
  
 <h2 align="center">✍️ Random Dev Quote</h2>
+
+<br>
  
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
+
+<br>
+<br>
  
 <h2 align="center">🧠 Developer Mode</h2>
+
+<br>
  
 <div align="center">
 <!-- Developer Mode Image -->
