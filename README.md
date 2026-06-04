@@ -10,7 +10,7 @@
 <div align="center">
 
 ## 🛠️ Languages & Tools
-<br>
+<br></br>
  
 <a href="#" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="60" /></a>
 <a href="#" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="60" /></a>
