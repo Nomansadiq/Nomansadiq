@@ -7,6 +7,7 @@
 </div>
 
 ## 🛠️ Languages & Tools
+<br>
 
  
 <div align="center">
