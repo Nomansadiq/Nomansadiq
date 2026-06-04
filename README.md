@@ -6,13 +6,14 @@
 <p>I create clean, responsive and user-friendly websites using HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React and modern web tools.</p>
 </div>
 
-<br>
 
-## 🛠️ Languages & Tools
 
 <br>
  
 <div align="center">
+ <br>
+
+## 🛠️ Languages & Tools
 <a href="#" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="60" /></a>
 <a href="#" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="60" /></a>
 <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="60" /></a>
