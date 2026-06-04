@@ -29,7 +29,6 @@
 </div>
 
 <br>
-<br>
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -43,7 +42,6 @@ My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, R
 </p>
 
 <br>
-<br>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -51,18 +49,18 @@ My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, R
  
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nomansadiq&theme=tokyonight" />
-<br><br>
+<br>
  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nomansadiq&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nomansadiq&theme=tokyonight" />
-<br><br>
+<br>
  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nomansadiq&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nomansadiq&theme=tokyonight&utcOffset=5" />
 </div>
 
 <br>
-<br>
+
  
 <h2 align="center">🔥 Contribution Streak</h2>
 
@@ -73,7 +71,6 @@ My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, R
 </div>
 
 <br>
-<br>
  
 <h2 align="center">✍️ Random Dev Quote</h2>
 
@@ -83,7 +80,6 @@ My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, R
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<br>
 <br>
  
 <h2 align="center">🧠 Developer Mode</h2>
