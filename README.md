@@ -6,8 +6,6 @@
 <p>I create clean, responsive and user-friendly websites using HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React and modern web tools.</p>
 </div>
 
-
-
 <br>
  
 <div align="center">
