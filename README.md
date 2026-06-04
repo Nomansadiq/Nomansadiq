@@ -7,6 +7,7 @@
 </div>
 
 ## 🛠️ Languages & Tools
+
  
 <div align="center">
 <a href="#" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="60" /></a>
@@ -22,6 +23,7 @@
 <a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="60" /></a>
  
 </div>
+
 
 <h2 align="center">🚀 About Me</h2>
  
