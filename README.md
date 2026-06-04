@@ -1,12 +1,11 @@
 <div align="center">
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=46&duration=2200&pause=900&color=28C7FA&center=true&vCenter=true&width=700&height=90&lines=Hi+There!;I%27m+Talha" alt="Typing SVG" />
-<h3>WordPress | Shopify | E-Commerce Store Management | Creative Learner</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=46&duration=2200&pause=900&color=28C7FA&center=true&vCenter=true&width=700&height=90&lines=Hi+There!;I%27m+Noman" alt="Typing SVG" />
+<h3>WordPress | Shopify | E-Commerce Store Developer & Management | Creative Learner</h3>
  
 <p>I create clean, responsive and user-friendly websites using HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React and modern web tools.</p>
 </div>
----
- 
+
 ## 🛠️ Languages & Tools
  
 <div align="center">
@@ -23,8 +22,7 @@
 <a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="60" /></a>
  
 </div>
----
- 
+
 <h2 align="center">🚀 About Me</h2>
  
 <p align="center">
@@ -33,8 +31,7 @@ I am a passionate web developer specializing in WordPress, Shopify, and e-commer
 <p align="center">
 My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, React, and Node.js. I focus on delivering visually appealing, responsive, and scalable websites that meet client needs.
 </p>
----
- 
+
 <h2 align="center">📊 GitHub Stats</h2>
  
 <div align="center">
@@ -48,21 +45,18 @@ My expertise includes HTML, CSS, JavaScript, PHP, Laravel, WordPress, Shopify, R
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nomansadiq&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nomansadiq&theme=tokyonight&utcOffset=5" />
 </div>
----
  
 <h2 align="center">🔥 Contribution Streak</h2>
  
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Nomansadiq&theme=tokyonight&hide_border=true" />
 </div>
----
  
 <h2 align="center">✍️ Random Dev Quote</h2>
  
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
----
  
 <h2 align="center">🧠 Developer Mode</h2>
  
