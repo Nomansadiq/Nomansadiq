@@ -7,7 +7,6 @@
 </div>
  
 <div align="center">
- <br>
 
 ## 🛠️ Languages & Tools
 <a href="#" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="60" /></a>
